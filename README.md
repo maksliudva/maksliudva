@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @maksliudva
 - 👀 I’m interested in history and coding
-- 🌱 I’m currently learning c++ and arduino
-- 💞️ I’m looking to collaborate on c++
-- 📫 How to reach me c++ and improve my coding skills
+- 🌱 I’m currently learning JavaScript
 
 <!---
 maksliudva/maksliudva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
